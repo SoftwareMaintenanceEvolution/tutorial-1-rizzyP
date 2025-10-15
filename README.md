@@ -3,7 +3,7 @@
 Hi! I'm Rizqi, an Telecommunication Engineering student @ Institut Teknologi Bandung. 
 Currently, my interest are network security practices. I am also currently a mobility student @ Universiti Malaya to take business-related and computer science courses.
 
-![My Image](rizqi-profile-picture.jpg)  <!-- Link to the uploaded image -->
+![My Image](rizqi-profile-picture.png)  <!-- Link to the uploaded image -->
 
 ## GitHub Profile
 
